@@ -273,47 +273,32 @@ EXAMPLE :-
 
 first we have created and inserted data in table :-
 
-![Screenshot 2023-11-15 132759](https://github.com/aman7935/rdbms-practical/assets/146933698/680f70c6-082d-4837-9629-6b97348e50c7)
+![Screenshot 2023-11-16 173855](https://github.com/ankit35136/rdbms-practical2/assets/146933815/9ae7a305-df8c-43f5-af2d-b317e8940a72)
+
 
 now we will write exception handling code for no data :-
 
-![Screenshot 2023-11-15 132950](https://github.com/aman7935/rdbms-practical/assets/146933698/930eb9f5-0d4e-4c0c-870e-e803c2712a66)
-
-output :-
-
-![Screenshot 2023-11-15 133017](https://github.com/aman7935/rdbms-practical/assets/146933698/585bd139-f816-4894-9e9d-b11de5ef6aac)
+![Screenshot 2023-11-16 174015](https://github.com/ankit35136/rdbms-practical2/assets/146933815/28f7b968-a692-4f23-b30e-123678822430)
 
 ### 2. ZERO_DIVIDE exception
 
 creating and insertin values in table  :-
 
-![Screenshot 2023-11-15 133617](https://github.com/aman7935/rdbms-practical/assets/146933698/d93dad89-05d7-4b78-9362-e9b8f9329436)
+![Screenshot 2023-11-16 174238](https://github.com/ankit35136/rdbms-practical2/assets/146933815/dea2627f-71c3-47eb-be07-d6b2489273a5)
 
 writing exception :-
 
-![Screenshot 2023-11-15 133709](https://github.com/aman7935/rdbms-practical/assets/146933698/6b06d7c4-3193-43eb-aa3e-c3557d10afe2)
-
-output :-
-
-![Screenshot 2023-11-15 133748](https://github.com/aman7935/rdbms-practical/assets/146933698/4c9e28c3-395f-4d55-9099-dc2be6410938)
+![Screenshot 2023-11-16 175305](https://github.com/ankit35136/rdbms-practical2/assets/146933815/c0fe06c5-f1c8-4827-8ae8-235b7d1b5f6a)
 
 ## 2. External exceptions( user defined exceptions)
 
 1. Raise exception
  
-![Screenshot 2023-11-15 141128](https://github.com/aman7935/rdbms-practical/assets/146933698/a577d9ce-9156-4af2-a148-1d0d71d011b1)
-
-output :-
-
-![Screenshot 2023-11-15 141152](https://github.com/aman7935/rdbms-practical/assets/146933698/1d93b0bd-a515-4d41-8027-c498b219ff01)
+![Screenshot 2023-11-16 175601](https://github.com/ankit35136/rdbms-practical2/assets/146933815/eb0656f2-95e6-4972-96ab-6ea82e2967ec)
 
 2. Raise_application_error
 
-![Screenshot 2023-11-15 142453](https://github.com/aman7935/rdbms-practical/assets/146933698/670f5ec1-1f65-41e4-9c0f-388940af8b86)
-
-output :-
-
-![Screenshot 2023-11-15 142531](https://github.com/aman7935/rdbms-practical/assets/146933698/08ffbcb4-9d68-4cc7-b597-602a38b58cb8)
+![Screenshot 2023-11-16 175806](https://github.com/ankit35136/rdbms-practical2/assets/146933815/342d74a3-91f8-404e-a12c-c5e8c376a9f2)
 
 # 8. Using various types of Cursors
 ## A cursor is a pointer to this context area. PL/SQL controls the context area through a cursor. A cursor holds the rows (one or more) returned by a SQL statement. The set of rows the cursor holds is referred to as the active set.
