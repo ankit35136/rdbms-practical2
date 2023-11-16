@@ -240,49 +240,30 @@ when we create a view, the view does not store any data by default. So, when we 
 
 example :-
 
-![Screenshot 2023-11-15 114207](https://github.com/aman7935/rdbms-practical/assets/146933698/7b8aa56a-2f9b-4026-8a58-299419404a3f)
-
-OUTPUT :-
-
-![Screenshot 2023-11-15 114700](https://github.com/aman7935/rdbms-practical/assets/146933698/2fc4d91a-2809-436f-87d9-7d03243c1a7e)
+![image](https://github.com/ankit35136/rdbms-practical2/assets/146933815/7018fbdb-bce9-4233-82b7-440c0e79d352)
 
 2. IF-THEN-ELSE
 
 example :-
 
-![Screenshot 2023-11-15 115222](https://github.com/aman7935/rdbms-practical/assets/146933698/dfa5b023-4388-4061-be40-d92ab7c5c791)
+![Screenshot 2023-11-16 172808](https://github.com/ankit35136/rdbms-practical2/assets/146933815/b50f120f-2054-4899-94b6-2275a1841112)
 
-OUTPUT :-
-
-![Screenshot 2023-11-15 115310](https://github.com/aman7935/rdbms-practical/assets/146933698/745105c8-8f34-4d68-8e46-571b0110596c)
 
 3. IF-THEN-ELSIF
 
 example :-
 
-![Screenshot 2023-11-15 115629](https://github.com/aman7935/rdbms-practical/assets/146933698/cbbbbb77-fdc1-48a2-8b90-b6f9f6797e38)
-
-OUTPUT :-
-
-![Screenshot 2023-11-15 115640](https://github.com/aman7935/rdbms-practical/assets/146933698/287a0f56-b17d-4357-bb2b-9260c803eecb)
+![Screenshot 2023-11-16 173004](https://github.com/ankit35136/rdbms-practical2/assets/146933815/6fc99562-030c-4387-b085-d9b7d7168ca1)
 
 ## 2. CASE STATEMENT
 
 EXAMPLE :-
 
-![Screenshot 2023-11-15 120336](https://github.com/aman7935/rdbms-practical/assets/146933698/fccc7235-93be-4479-bad9-9db1bcda3562)
-
-OUTPUT :-
-
-![Screenshot 2023-11-15 120401](https://github.com/aman7935/rdbms-practical/assets/146933698/49b1b281-9403-459a-8d40-920e6d6bd47b)
+![Screenshot 2023-11-16 173135](https://github.com/ankit35136/rdbms-practical2/assets/146933815/be0d5edc-237f-4a8a-a0d9-f9b0b4c1c875)
 
 ## SEARCHED CASE STATEMENT
+![Screenshot 2023-11-16 173338](https://github.com/ankit35136/rdbms-practical2/assets/146933815/16d581ca-3481-4ea0-bf63-07a064d37a46)
 
-![Screenshot 2023-11-15 120810](https://github.com/aman7935/rdbms-practical/assets/146933698/f349f183-3688-42e1-86a3-36fb20c54368)
-
-output :-
-
-![Screenshot 2023-11-15 120830](https://github.com/aman7935/rdbms-practical/assets/146933698/ee31b541-16b9-4fd3-ae87-7052834e1f2f)
 # 7. Error Handling using Internal Exceptions and External Exceptions
 
 ## Internal exceptions/system defined exceptions(Defined by oracle)
